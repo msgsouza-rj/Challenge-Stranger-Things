@@ -5,6 +5,11 @@
 -------
 Uma jornada para quem não tem medo do desconhecido. O caminho para o Mundo Invertido é incerto, repleto de obstáculos e perigos. Porém, a recompensa é grande: salvar Hawkings e o mundo todo das garras de Vecna. Você está preparado(a)? 
 
+<p align="center">
+    [Demo] https://msgsouza-rj.github.io/Challenge-Stranger-Things/    &nbsp&nbsp&nbsp&nbsp👈 Experimente !
+</p>
+
+
 ## ▶️ Semana Front-end
 
 ## 💻 Tecnologias
@@ -38,7 +43,7 @@ Uma jornada para quem não tem medo do desconhecido. O caminho para o Mundo Inve
 - [WAI - Web Acessibility Initiative](https://www.w3.org/WAI/)
 - [WCAG 2](https://www.w3.org/WAI/WCAG21/quickref/) 
 - [Figma](https://www.figma.com/file/I3Q42CcVUziRN3iMfTrbfb/Stranger-Things?node-id=0%3A1) 
-- [Demo](https:// NOME .github.io/ REPOSITORIO /) 
+
 ## 🌎 Links
 
 
