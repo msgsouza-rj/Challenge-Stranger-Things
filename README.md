@@ -38,21 +38,22 @@ Uma jornada para quem não tem medo do desconhecido. O caminho para o Mundo Inve
 - [WAI - Web Acessibility Initiative](https://www.w3.org/WAI/)
 - [WCAG 2](https://www.w3.org/WAI/WCAG21/quickref/) 
 - [Figma](https://www.figma.com/file/I3Q42CcVUziRN3iMfTrbfb/Stranger-Things?node-id=0%3A1) 
-- [Demo](https://micheleambrosio.github.io/semana-frontend-mundo-invertido/) 
+- [Demo](https:// NOME .github.io/ REPOSITORIO /) 
 ## 🌎 Links
 
 
 <p align="center">
-    <img width="300" src="./assets/images/banner/dio.png">
+    <img width="300" src="./assets/images/dio.png">
 </p>
-<p>
+<p align="center">
  <a href="https://www.dio.me/"><spam>Digital Innovation One Inc.<spam></a>
 </p>
 <br/><br/>
 <p>
-    <img align=left margin=10 width=80 scr="./assets/images/mauro_souza.jpg">
-    <p>&nbsp&nbsp&nbspMauro Souza<br>
-    &nbsp&nbsp&nbsp<a href="https://github.com/msgsouza-rj">GitHub</a>&nbsp;|&nbsp;
+    <img align=left margin=10 width=80 src="./assets/images/mauro_souza.jpg">
+    <p>&nbsp&nbsp&nbsp&nbspMauro Souza<br>
+    &nbsp&nbsp&nbsp&nbsp<a href="https://github.com/msgsouza-rj">GitHub</a>&nbsp;|&nbsp;
     <a href="https://www.linkedin.com/in/maurosouza-dev/">LinkedIn</a>
     </p>
-</p># Challenge-Stranger-Things
+</p><br/>
+# Challenge-Stranger-Things
